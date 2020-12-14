@@ -1,0 +1,50 @@
+p{
+    color:red;
+}
+
+html {
+    background-color: #273746 ;
+  }
+
+ h1 {
+    margin: 20;
+    padding: 20px 0;    
+    color: white;
+    font-size: 50px;
+    font-family: "Roboto",sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .box {
+
+    background-color: #462727 ;
+  }
+  h2{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(255, 94, 0);
+    margin-left: 20px;
+    font-size: 30px;
+    
+  }
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+
+  h3{
+    font-family: 'Raleway', sans-serif;
+    color: rgb(162, 222, 208);
+    margin-left: 20px;
+    font-size: 30px;
+    
+    
+  }
+  .fs{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(127, 255, 212);
+    margin-left: 20px;
+    font-size: 30px;
+  }

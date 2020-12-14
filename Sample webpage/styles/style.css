@@ -1,0 +1,34 @@
+p{
+    color:red;
+}
+
+html {
+    background-color: #273746 ;
+  }
+
+ h1 {
+    margin: 20;
+    padding: 20px 0;    
+    color: white;
+    font-size: 50px;
+    font-family: "Roboto",sans-serif;
+  }
+
+  .box {
+
+    background-color: #273746 ;
+  }
+  .box2{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin-left: 1400px;
+    font-size: 20px;
+    
+  }
+  #link{
+    margin: 20;
+    padding: 20px 0;    
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto",sans-serif;
+  }
